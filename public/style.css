@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 #bg {
-  background-image: url('img/background.jpg');
+  background: linear-gradient(rgba(12, 36, 58, 0.6), rgba(206, 231, 91, 0.3)),url("https://www.intelligentliving.co/wp-content/uploads/2020/02/library1-960x540.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   position: fixed;
   left: 0;
   top: 0;
@@ -11,6 +15,9 @@
 }
 
 body {
+  
+    
+
   font-family: 'Lato', sans-serif;
   color: #4A4A4A;
   display: flex;
