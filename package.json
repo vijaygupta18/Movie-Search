@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vijaygupta18/Movie-Search"
   },
   "keywords": [
     "saavan"
   ],
   "author": "Vijay",
   "license": "ISC",
-  "homepage": ""
+  "homepage": "https://github.com/vijaygupta18/Movie-Search"
 }
