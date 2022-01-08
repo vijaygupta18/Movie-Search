@@ -19,8 +19,8 @@ app.get("/", (req, res) => {
  
   });
 app.get("/home", (req, res) => {
-  songs="" 
-    res.render("home");
+  let movies="" ;
+    res.render("home",{movies:movies});
  
   });
   // app.get("/favicon.ico", (req, res) => {
