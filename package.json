@@ -20,9 +20,12 @@
     "url": "https://github.com/vijaygupta18/Movie-Search"
   },
   "keywords": [
-    "saavan"
+    "movies"
   ],
+  "bugs": {
+    "url": "https://github.com/vijaygupta18/Movie-Search/issues"
+  },
   "author": "Vijay",
   "license": "ISC",
-  "homepage": "https://github.com/vijaygupta18/Movie-Search"
+  "homepage": "https://github.com/vijaygupta18/Movie-Search#readme"
 }
