@@ -32,7 +32,7 @@ app.get("/home", (req, res) => {
 app.post("/", (req, res) => {
     let user = req.body.username;
     let pass = req.body.pass;
-    if (user === "vijaygupta18" && pass==="fasalapp") res.redirect("/home"); 
+    if (user === "vijaygupta18" && pass==="movieapp") res.redirect("/home"); 
     else res.redirect("/");
   })
 app.post("/search", (req, res) => {
