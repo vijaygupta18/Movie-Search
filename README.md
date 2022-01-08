@@ -8,13 +8,19 @@ Tech Stack Used:
 - EJS
 - CSS
 
-Clone or download this repo.
-
-Install all the dependencies
-
-Run the app 
-
-Username: vijaygupta18
-Password: movieapp
 
 ![HomePage](1.JPG?raw=true "Homepage")
+```diff
+
+Clone or download this repo.
+
+Install all the dependencies by command : npm i
+
+Run the app by using the command: npm app.js
+
+Login Credentials:
+
+Username: vijaygupta18
+Password: movieapp 
+
+
